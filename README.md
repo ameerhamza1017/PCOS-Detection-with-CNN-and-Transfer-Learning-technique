@@ -18,7 +18,7 @@ This project introduces a <b>deep learning model</b> to detect PCOS using specif
 <h2>🔬 Project Highlights</h2>
 
 <ul>
-  <li>✅ Training and testing on <b>2,644 ultrasound images</b></li>
+  <li>✅ Training and testing on <b> ultrasound images</b></li>
   <li>✅ Utilizes <b>Convolutional Neural Networks (CNNs)</b> with <b>Transfer Learning</b></li>
   <li>✅ Explores multiple architectures for performance benchmarking</li>
   <li>✅ <b>ResNet-50</b> outperformed other models, achieving the highest accuracy</li>
